@@ -5,6 +5,8 @@
 ## 一些缩写介绍：
 
 id：青龙应用的client_id
+2.11版本之后的青龙openapi，把_id改成了id
+感谢@yiyule10
 
 secret：青龙应用的client_secret
 
